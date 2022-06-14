@@ -1,6 +1,6 @@
-### Meu nome é Emanuel Victor 
+### Emanuel Victor 
 
-- 🌱 Estudando Python
+- 🐍 Estudando Python
 
 <div align="center">
   <a href="https://github.com/emanuelvito">
